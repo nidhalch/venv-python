@@ -1,0 +1,3 @@
+[console_scripts]
+redis_sentinel_check_oio = redis_sentinel_check_oio.check_redis_sentinel_check:main
+
