@@ -5,7 +5,7 @@
 """Convenience wrapper for running redis_sentinel_check_oio directly from source tree."""
  
  
-from redis_sentinel_check_oio.py.redis_sentinel_check_oio import main
+from redis_sentinel_check_oio.py.check_redis_sentinel import main
  
  
 if __name__ == '__main__':
