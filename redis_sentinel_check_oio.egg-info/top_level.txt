@@ -1,1 +1,0 @@
-redis_sentinel_check_oio
